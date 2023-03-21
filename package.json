@@ -1,0 +1,14 @@
+{
+  "name": "solidity-syntax-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/weilliao05621/solidity-syntax-practice.git",
+  "author": "Weil <f0955710119@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "prettier": "^2.8.6",
+    "prettier-plugin-solidity": "^1.1.3",
+    "pretty-quick": "^3.1.3"
+  }
+}
